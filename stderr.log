@@ -1,0 +1,982 @@
+This is the menu data {'item_name': 'Chivas Regal 12 yrs 30ml', 'description': None, 'price': 575.22, 'group': 'Whisky', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Birthday Cake', 'description': None, 'price': 884.95, 'group': 'Birthday', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Meeting Combo', 'description': None, 'price': 7389.38, 'group': 'Buffet', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Coconut Bliss', 'description': None, 'price': 486.73, 'group': 'Mocktails', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mangoficent', 'description': None, 'price': 486.73, 'group': 'Mocktails', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Santa Julia, Chenin Dulce', 'description': None, 'price': 3097.34, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Renas Day', 'description': None, 'price': 176.99, 'group': 'Birthday', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Birthday Charge', 'description': None, 'price': 88.49, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Three Cheese Toasties', 'description': None, 'price': 795.57, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Tuna Melt Sandwich', 'description': None, 'price': 716.81, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Feels Grain Bowl', 'description': None, 'price': 972.56, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Fire Bucket', 'description': None, 'price': 601.76, 'group': 'Snacks', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Quesdilla In Chicken', 'description': None, 'price': 663.71, 'group': 'Snacks', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Quesedilla In Mushroom', 'description': None, 'price': 663.71, 'group': 'Snacks', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Meat Balls', 'description': None, 'price': 530.08, 'group': 'Snacks', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Flat Bread with Drama', 'description': None, 'price': 1061.06, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Loaded Feels Sandwich', 'description': None, 'price': 765.48, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Avocado On Toast', 'description': None, 'price': 575.22, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'PBJ Sandwich', 'description': None, 'price': 486.72, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Its Brekkie Wrap', 'description': None, 'price': 928.31, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Your Fav Avocado Bowl', 'description': None, 'price': 795.37, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Salmon Eggs Benedict', 'description': None, 'price': 1415.04, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced Coconut Latte', 'description': None, 'price': 575.22, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced Coconut Matcha Latte', 'description': None, 'price': 601.76, 'group': 'Vegan option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Beetroot Kombucha', 'description': None, 'price': 353.98, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Feels Platter', 'description': None, 'price': 1769.91, 'group': 'Special Feels', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Super Bowl', 'description': None, 'price': 619.46, 'group': 'Special Feels ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cottage Cheese on Toast', 'description': None, 'price': 690.26, 'group': 'Special Feels', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Georgian Pizza', 'description': None, 'price': 752.21, 'group': 'Special Feels', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Norwegian Salmon Toast', 'description': None, 'price': 1415.92, 'group': 'Special Feels', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Full Medamas', 'description': None, 'price': 663.71, 'group': 'Special Feels', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cute Cottage Wrap', 'description': None, 'price': 867.25, 'group': 'Special Feels', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Korean Chicken Slider', 'description': None, 'price': 778.76, 'group': 'Special Feels', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Waffel with Chicken', 'description': None, 'price': 725.66, 'group': 'Special Feels', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chefs noodles', 'description': None, 'price': 575.22, 'group': 'Special Feels', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chia Seed Kombucha', 'description': None, 'price': 353.98, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Pomegranate Kombucha', 'description': None, 'price': 353.98, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Yuzub Kombucha', 'description': None, 'price': 309.73, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cucumber Mint Kombucha', 'description': None, 'price': 309.73, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Lemon Herb Kombucha', 'description': None, 'price': 353.98, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Ginger Kombucha', 'description': None, 'price': 353.98, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Normal Kombucha', 'description': None, 'price': 309.73, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Parmasen Cheese', 'description': None, 'price': 132.74, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Summer Offer', 'description': None, 'price': 690.0, 'group': 'Iced ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cocktail Offer', 'description': None, 'price': 637.16, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Know Your Body', 'description': None, 'price': 12831.85, 'group': 'Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Tres-Leches Cake', 'description': None, 'price': 265.49, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'V60', 'description': None, 'price': 575.22, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Black Coffee', 'description': None, 'price': 247.79, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Scrambled on toast', 'description': None, 'price': 442.47, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'V Anima Raimant Rs ECO (Bottle)', 'description': None, 'price': 4601.76, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Follador Gold Prosecco (Bottle)', 'description': None, 'price': 3982.3, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Vigna Di Pllino Chianti D.O.C.G ( Bottle)', 'description': None, 'price': 5309.73, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Nere I.G.T Feudo Maccari (Bottle)', 'description': None, 'price': 4955.75, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Vina Pomal Crianza (Bottle)', 'description': None, 'price': 4601.76, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Vesper Merlot (Bottle)', 'description': None, 'price': 3805.3, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Caramel 15ML', 'description': None, 'price': 79.64, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Nyef Event', 'description': None, 'price': 11053.09, 'group': 'Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gorkha Craft combo', 'description': None, 'price': 1061.94, 'group': 'Beer', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Fruits', 'description': None, 'price': 35.39, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Yogurt', 'description': None, 'price': 88.49, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Tuna', 'description': None, 'price': 221.23, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Tuborg 330 ml', 'description': None, 'price': 336.28, 'group': 'Beer', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gorkha Premium', 'description': None, 'price': 575.22, 'group': 'Beer', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Tuborg 650 ml', 'description': None, 'price': 610.61, 'group': 'Beer', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Carlsberg', 'description': None, 'price': 663.71, 'group': 'Beer', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Kombucha', 'description': None, 'price': 309.73, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Absolute Apeach Vodka (30 ml)', 'description': None, 'price': 327.43, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Absolute Apeach Vodka (60 ml )', 'description': None, 'price': 663.71, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Absolute Apeach Vodka (1000 Ml)', 'description': None, 'price': 8097.34, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Americano orange', 'description': None, 'price': 353.98, 'group': 'iced coffee', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Expresso lemonade', 'description': None, 'price': 309.73, 'group': 'iced coffee', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced chai latte', 'description': None, 'price': 336.28, 'group': 'iced coffee', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cinnamon Vanilla Ice-Cream', 'description': None, 'price': 221.23, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Buffet Par Pax', 'description': None, 'price': 1327.43, 'group': 'Food', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Hot Garlic Paneer', 'description': None, 'price': 575.22, 'group': 'Snacks', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Omelette with Toast', 'description': None, 'price': 442.47, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'extra jam', 'description': None, 'price': 88.49, 'group': 'extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Vesper Siraz Bottle', 'description': None, 'price': 3539.82, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Vesper Shiraz (150ml)', 'description': None, 'price': 752.21, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Vesper Chardonnay Bottle', 'description': None, 'price': 3539.82, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Vesper Chardonnay (150ml)', 'description': None, 'price': 752.21, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Vegan Milk', 'description': None, 'price': 88.49, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Oats Matcha Latte', 'description': None, 'price': 380.53, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Oats Flat White', 'description': None, 'price': 380.53, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Oats Latte', 'description': None, 'price': 380.53, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Oats Cappuccino', 'description': None, 'price': 380.53, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Almond Matcha Latte', 'description': None, 'price': 398.23, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Almond Flat White', 'description': None, 'price': 407.07, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Almond Latte', 'description': None, 'price': 407.07, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Almond Cappuccino', 'description': None, 'price': 407.07, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced Almond Matcha', 'description': None, 'price': 601.76, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced Almond Latte', 'description': None, 'price': 575.22, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced Almond Cappuccino', 'description': None, 'price': 575.22, 'group': 'Vegan Option', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Pineapple Juice', 'description': None, 'price': 44.25, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mini Abuergine Drama', 'description': None, 'price': 115.04, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mini BBQ Fries', 'description': None, 'price': 106.19, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Lungo', 'description': None, 'price': 309.73, 'group': 'Hot beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Grill Salmon', 'description': None, 'price': 1637.16, 'group': 'Food', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'VANILLA (15ML)', 'description': None, 'price': 79.65, 'group': 'EXTRA', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Elderflower 15 ml', 'description': None, 'price': 70.79, 'group': 'extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Sisha Flavor', 'description': None, 'price': 442.48, 'group': 'extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Straberry Cornetto', 'description': None, 'price': 353.98, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Strawberry Cornetto', 'description': None, 'price': 353.98, 'group': 'Pastried', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Marshmellow', 'description': None, 'price': 70.8, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Sourdough Loaf (small)', 'description': None, 'price': 221.23, 'group': 'Bakery', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'White Lies(Domestic)', 'description': None, 'price': 707.96, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Corkage Fee', 'description': None, 'price': 88.49, 'group': 'Upama Birthday Buffet', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Tomato Soup', 'description': None, 'price': 221.23, 'group': 'Soup', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Meeting Charge', 'description': None, 'price': 884.96, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Lit really [Domestic]', 'description': None, 'price': 707.96, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Birthday Decoration', 'description': None, 'price': 1769.91, 'group': 'Birthday', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'vanilla waffles', 'description': None, 'price': 101.76, 'group': 'desert', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Long KTM roll', 'description': None, 'price': 309.73, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chivas Regal 12years 60ml', 'description': None, 'price': 929.2, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chivas Regal 13years 60ml', 'description': None, 'price': 951.32, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Plain Soda', 'description': None, 'price': 150.44, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Suntory Roku Gin 60ml', 'description': None, 'price': 796.46, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Suntory Roku Gin 30ml', 'description': None, 'price': 424.78, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Suntory Roku Gin 700ML', 'description': None, 'price': 11500.0, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cream Roll', 'description': None, 'price': 309.73, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'extra coil', 'description': None, 'price': 88.49, 'group': 'extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Strawberry Danish', 'description': None, 'price': 309.73, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'catch them feelss', 'description': None, 'price': 707.96, 'group': 'coctail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Sourdough Loaf', 'description': None, 'price': 442.49, 'group': 'Bakery', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Focaccia', 'description': None, 'price': 353.9, 'group': 'Bakery', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Croissant Bacon and Egg Bite', 'description': None, 'price': 884.07, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Brioche Veg Slider', 'description': None, 'price': 618.58, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Biroche Chicken Slider', 'description': None, 'price': 707.07, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Sourdough Pesto Paradise', 'description': None, 'price': 884.07, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Focaccia Poached Sandwich', 'description': None, 'price': 769.91, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'jim beam black whisky 30 ml', 'description': None, 'price': 398.23, 'group': 'whisky ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'jim beam black whisky 60 ml', 'description': None, 'price': 787.61, 'group': 'whisky ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'jim beam black whisky 1000ml', 'description': None, 'price': 9823.0, 'group': 'whisky ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'jim beam white whisky 30 ml', 'description': None, 'price': 389.38, 'group': 'whisky ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'jim beam white whisky 60ml', 'description': None, 'price': 761.06, 'group': 'whisky', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'jim beam white whisky 1000ml', 'description': None, 'price': 9646.01, 'group': 'whisky', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Plain buguette', 'description': None, 'price': 159.29, 'group': 'Bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chaku cream cornetto', 'description': None, 'price': 353.98, 'group': 'Bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Apple turn over', 'description': None, 'price': 309.73, 'group': 'bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cheese honey baguette', 'description': None, 'price': 221.23, 'group': 'Bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Strawberry cream Ktm roll', 'description': None, 'price': 309.73, 'group': 'Bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Salted caramel and cream danish', 'description': None, 'price': 256.63, 'group': 'Bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Pistachio Ktm roll', 'description': None, 'price': 309.73, 'group': 'Bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chaku Ktm roll', 'description': None, 'price': 309.73, 'group': 'Bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Salami and mustar baguete', 'description': None, 'price': 194.69, 'group': 'Bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Croissant au beurre', 'description': None, 'price': 176.99, 'group': 'Bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'PainAu chocolate', 'description': None, 'price': 238.93, 'group': 'Bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Tomato and cheese danish', 'description': None, 'price': 256.63, 'group': 'Bakery event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Nude Superior Vodka 60ml', 'description': None, 'price': 265.49, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Brunch buffet set', 'description': None, 'price': 2906.4, 'group': 'Food', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Apple Turnover', 'description': None, 'price': 336.28, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Hot rum punch', 'description': None, 'price': 884.95, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Cheese fatayer', 'description': None, 'price': 176.99, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Dusk till dawn [Domestic]', 'description': None, 'price': 707.96, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Honey trap [ Domestic]', 'description': None, 'price': 707.96, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Moulin rouge [Domestic]', 'description': None, 'price': 707.96, 'group': 'cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bagrette', 'description': None, 'price': 176.99, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cream Brioche', 'description': None, 'price': 70.8, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Pain Au Chocolate', 'description': None, 'price': 265.49, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'couricury charge', 'description': None, 'price': 1327.43, 'group': 'extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'courier charge', 'description': None, 'price': 1752.39, 'group': 'extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Kathmandu Roll', 'description': None, 'price': 309.73, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Hummus with pita', 'description': None, 'price': 221.23, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Hot garlic tofu', 'description': None, 'price': 194.69, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'HONEY TRAP 1160', 'description': None, 'price': 707.96, 'group': 'BEVERAGE', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'DUSK TILL DAWN 1340', 'description': None, 'price': 707.96, 'group': 'BEVERAGE', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'MOULIN ROUGE780', 'description': None, 'price': 707.96, 'group': 'BEVERAGE', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Apple tart', 'description': None, 'price': 221.24, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Danish', 'description': None, 'price': 221.23, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Croissant', 'description': None, 'price': 221.24, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Garlic Chicken Soup', 'description': None, 'price': 309.73, 'group': 'Soup', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Culinary matcha 50 tin', 'description': None, 'price': 1230.08, 'group': 'gen shii', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Barista edition matcha 100 tin', 'description': None, 'price': 2123.89, 'group': 'gen shii', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Barista edition matcha 50 tin', 'description': None, 'price': 1407.07, 'group': 'gen shii', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Ceremonial Grade Matcha 100gm', 'description': None, 'price': 2654.87, 'group': 'gen shii', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'ceremonial grade matcha 50gm .', 'description': None, 'price': 1672.57, 'group': 'gen shii', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'New Year Combo', 'description': None, 'price': 2211.5, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'tres-leches cake 1 pound', 'description': None, 'price': 1150.44, 'group': 'pastry', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mango', 'description': None, 'price': 884.96, 'group': 'Sisha', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Berling Night', 'description': None, 'price': 884.96, 'group': 'Sisha', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Ginger Cookie (Big)', 'description': None, 'price': 106.19, 'group': 'Cookies', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Ginger Cookie (Small)', 'description': None, 'price': 88.5, 'group': 'Cookies', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Brownie Cinema', 'description': None, 'price': 115.93, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'white lies', 'description': None, 'price': 1061.94, 'group': 'cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Catch them feels', 'description': None, 'price': 1061.94, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Moulin rouge', 'description': None, 'price': 1061.94, 'group': 'cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Dusk till dawn', 'description': None, 'price': 1061.94, 'group': 'cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Honey trap', 'description': None, 'price': 1061.94, 'group': 'cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Lit really', 'description': None, 'price': 1061.94, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Old durbar two continents whiskey 30ml', 'description': None, 'price': 194.7, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Old durbar two continents whiskey 60ml', 'description': None, 'price': 309.74, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Old durbar two continents whiskey 750ml', 'description': None, 'price': 3539.83, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Nude superior vodka 30ml', 'description': None, 'price': 176.1, 'group': 'vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Nude superior vodka 750ml', 'description': None, 'price': 3097.35, 'group': 'vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'yeti vodka 30ml', 'description': None, 'price': 176.1, 'group': 'vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'yeti vodka 60ml', 'description': None, 'price': 265.49, 'group': 'vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'yeti vodka', 'description': None, 'price': 265.49, 'group': 'vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Yeti Vodka 1000ml', 'description': None, 'price': 3097.35, 'group': 'vodks', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Old durbar 30ml', 'description': None, 'price': 752.22, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Old durbar 15 years 60ml', 'description': None, 'price': 1469.1, 'group': 'whiskey ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Old durbar 15 years 750ml', 'description': None, 'price': 18318.59, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Double black whiskey 30ml', 'description': None, 'price': 530.98, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Double black whiskey 60ml', 'description': None, 'price': 973.46, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Khukuri spice rum30ml', 'description': None, 'price': 176.1, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'khukuri spice rum 60ml,', 'description': None, 'price': 309.74, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Khukuri Spice rum 750ml', 'description': None, 'price': 3539.84, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'new ruslan vodka 30ml', 'description': None, 'price': 168.19, 'group': 'vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'New ruslan vodka 60ml', 'description': None, 'price': 265.49, 'group': 'vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'New ruslan voidka 750ml', 'description': None, 'price': 3097.35, 'group': 'vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'khukuri rum', 'description': None, 'price': 159.3, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'khukuri rum 60 ml', 'description': None, 'price': 238.94, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'khukuri rum 750ml', 'description': None, 'price': 3097.35, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jack daniels whiskey750ml', 'description': None, 'price': 7964.61, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gold label whiskey 30ml', 'description': None, 'price': 619.47, 'group': 'whiskey ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gold label whiskey 60ml', 'description': None, 'price': 1194.7, 'group': 'whiskey ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gold label whiskey 1000ml', 'description': None, 'price': 14663.72, 'group': 'whiskey ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenlivet 15 years 30ml', 'description': None, 'price': 796.47, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenlivet 15 years 60ml', 'description': None, 'price': 1548.68, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenlivet 15 years 1000ml', 'description': None, 'price': 19336.24, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chivas regal 15 years whiskey 30ml', 'description': None, 'price': 610.62, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chivas regal 15 years whiskey 60ml', 'description': None, 'price': 1207.97, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chivas regal 15 years whiskey 1000ml', 'description': None, 'price': 15088.5, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenlivet 12 years 30ml', 'description': None, 'price': 486.73, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenlivet 12 years 60ml', 'description': None, 'price': 964.6, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenlivet 12 years 1000ml', 'description': None, 'price': 12079.65, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Grey Goose Vodka 30ml', 'description': None, 'price': 619.48, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Grey Goose Vodka 60ml', 'description': None, 'price': 1212.39, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Grey Goose Vodka 1000ml', 'description': None, 'price': 15088.5, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bombay saphire gin 30ml', 'description': None, 'price': 530.98, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bombay saphire gin 60ml', 'description': None, 'price': 1017.7, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bombay saphire Gin 1000ml', 'description': None, 'price': 12743.37, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chivas regal 18 years whiskey 30ml', 'description': None, 'price': 796.47, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chivas regal 18 years whiskey 60ml', 'description': None, 'price': 1548.68, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chivas regal 18 years whiskey 1000ml', 'description': None, 'price': 19336.29, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'The Famous grouse whiskey 30ml', 'description': None, 'price': 433.63, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'The Famous grouse whiskey 60ml', 'description': None, 'price': 634.5, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'The Famous grouse whiskey 1000ml', 'description': None, 'price': 8398.24, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Laphroaig select cask 30ml', 'description': None, 'price': 433.63, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Laphroaig select cask 60ml', 'description': None, 'price': 849.57, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Laphroaig select cask 750ml', 'description': None, 'price': 10619.47, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'balvani 14 yearsv whiskey 30ml', 'description': None, 'price': 787.62, 'group': 'whiskey ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Balvani 14 years whiskey 60ml', 'description': None, 'price': 1557.53, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Balvani 14 years whiskey 700ml', 'description': None, 'price': 19513.28, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenlivet 18 years 30ml', 'description': None, 'price': 1061.95, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenlivet 18 years 60ml', 'description': None, 'price': 2035.4, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenlivet 18 years 1000ml', 'description': None, 'price': 25353.12, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Ballantine Finesh 30ml', 'description': None, 'price': 353.99, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Ballantine finesh 60ml', 'description': None, 'price': 672.57, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Ballantibne finest 1000ml', 'description': None, 'price': 8407.1, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Black label 60ml', 'description': None, 'price': 849.56, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Black label whiskey 30ml', 'description': None, 'price': 442.48, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Black label whiskey 1000ml', 'description': None, 'price': 10619.47, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Malibu  rum 30ml', 'description': None, 'price': 336.29, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Malibu rum 60ml', 'description': None, 'price': 663.72, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Malibu rum 1000ml', 'description': None, 'price': 8230.1, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenfiddich 15 years 30ml', 'description': None, 'price': 884.95, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenfiddich 15 years 60ml', 'description': None, 'price': 1637.16, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glenfiddich 15 years 750 ml', 'description': None, 'price': 16283.18, 'group': 'Whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Absolut  Vodka 30ml', 'description': None, 'price': 318.59, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Absolut Vodka 60ml', 'description': None, 'price': 628.38, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Absolut Vodka 100ml', 'description': None, 'price': 7787.62, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jack Daniels 30ml', 'description': None, 'price': 398.24, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jack Daniels whiskey 60ml', 'description': None, 'price': 787.62, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jack Daniels whiskey 1000ml', 'description': None, 'price': 9867.26, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Makers Mark liquor 30ml', 'description': None, 'price': 486.73, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Makers Mark liquor 60ml', 'description': None, 'price': 946.91, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Makers Mark liquor 1000ml', 'description': None, 'price': 11814.16, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jacobs Creek sparking rose 750ml', 'description': None, 'price': 4000.0, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Tripple Sec liquor 30ml', 'description': None, 'price': 283.19, 'group': 'liqueur', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Tripple Sec liquor 60ml', 'description': None, 'price': 530.98, 'group': 'liqueur', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Tripple Sec liquor 700ml', 'description': None, 'price': 6637.17, 'group': 'liqueur', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Balani 12 years whisky 30ml', 'description': None, 'price': 575.23, 'group': 'whisky', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Balani 12 years whisky 60ml', 'description': None, 'price': 11158.1, 'group': 'whisky', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Balani 12 years whisky 700ml', 'description': None, 'price': 14159.3, 'group': 'whisky', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Beefeater Gin 30ml', 'description': None, 'price': 327.44, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Beefeater Gin 60ml', 'description': None, 'price': 619.47, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Beefeater Gin 1000ml', 'description': None, 'price': 7876.11, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Archers peach 30ml', 'description': None, 'price': 327.44, 'group': 'schnapps', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Archers peach 60ml', 'description': None, 'price': 637.17, 'group': 'schnapps', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Archers Peach 1000ml', 'description': None, 'price': 7849.56, 'group': 'schnapps', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Absolute vanilla Vodka 30ml', 'description': None, 'price': 353.99, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Absolute vanilla Vodka 60ml', 'description': None, 'price': 663.72, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Absolute vanilla Vodka 1000ml', 'description': None, 'price': 8141.6, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jameson Whiskey 60ml', 'description': None, 'price': 707.97, 'group': 'Whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jameson Whiskey 30ml', 'description': None, 'price': 362.84, 'group': 'Whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jameson Whiskey 1000ml', 'description': None, 'price': 8849.56, 'group': 'Whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bacardi Catta Blanca 30ml', 'description': None, 'price': 398.23, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bacardi Catta Blanca 60ml', 'description': None, 'price': 778.77, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bacardi Catta Blanca 1000ml', 'description': None, 'price': 9646.1, 'group': 'Rum', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gordons gin 30ml', 'description': None, 'price': 327.44, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gorden Gin 60ml', 'description': None, 'price': 663.72, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gordans Gin 1000ml', 'description': None, 'price': 7765.49, 'group': 'Gin', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Royal salute 21 years (30ml)', 'description': None, 'price': 1619.45, 'group': 'Whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Royal salute 21 years (60ml)', 'description': None, 'price': 3234.51, 'group': 'Whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Royal salute 21 years (bottle)', 'description': None, 'price': 40353.98, 'group': 'whiskey', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Mushroom', 'description': None, 'price': 106.19, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'fruits cake Cinema', 'description': None, 'price': 75.22, 'group': 'pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Cheese', 'description': None, 'price': 88.49, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'ginger bread', 'description': None, 'price': 176.99, 'group': 'extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Red Velvet', 'description': None, 'price': 309.73, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Room Charge', 'description': None, 'price': 884.95, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Fresh Juice(Orange)', 'description': None, 'price': 327.43, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Fresh Juice(watermelon)', 'description': None, 'price': 327.43, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chocochip Cookies (One Cinemas)', 'description': None, 'price': 94.69, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Broccoli', 'description': None, 'price': 265.48, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Hazelnut (15ml)', 'description': None, 'price': 79.65, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gin (30ml)', 'description': None, 'price': 353.98, 'group': 'Bar', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Blue lagoon', 'description': None, 'price': 230.08, 'group': 'Mocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gin', 'description': None, 'price': 353.98, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Portuguese Tart', 'description': None, 'price': 150.44, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Waffle', 'description': None, 'price': 132.74, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chicken Patties', 'description': None, 'price': 123.89, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Veg Sandwich', 'description': None, 'price': 115.04, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chicken Slider', 'description': None, 'price': 221.23, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'surya box', 'description': None, 'price': 663.71, 'group': 'Smoke', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Lime', 'description': None, 'price': 22.12, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bottega Rose Gold (sparkling)', 'description': None, 'price': 7433.62, 'group': 'Wine ', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bottega Gold Prosecco (sparkling)', 'description': None, 'price': 7522.12, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bottega Poeti Prosecco Brut (Sparkling)', 'description': None, 'price': 3982.3, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bottega Poeti Prosecco Extra Dry (Sparkling)', 'description': None, 'price': 3982.3, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bottega Pinot Grigio DOC Bottle', 'description': None, 'price': 3539.82, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bottega Muscato Bottle', 'description': None, 'price': 3539.82, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bottega Cabernet  Sauvignon Bottle', 'description': None, 'price': 3539.82, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bottega Chardonnay IGT Bottle', 'description': None, 'price': 3539.82, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bottega  Chardonnay IGT 150 Ml', 'description': None, 'price': 752.21, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bottega Merlot Bottle', 'description': None, 'price': 3539.82, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bottega Merlot  150Ml', 'description': None, 'price': 752.21, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Maple Mushroom', 'description': None, 'price': 194.69, 'group': 'Tulika Birthday Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cheese Stick', 'description': None, 'price': 221.23, 'group': 'Tulika Birthday Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Potato Balls', 'description': None, 'price': 159.29, 'group': 'Tulika Birthday Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Veg Pizza', 'description': None, 'price': 212.39, 'group': 'Tulika Birthday Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Veg Slider', 'description': None, 'price': 176.99, 'group': 'Tulika Birthday Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Beetroot salad.', 'description': None, 'price': 185.84, 'group': 'Tulika Birthday Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cheese cake small', 'description': None, 'price': 2477.88, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mimosa', 'description': None, 'price': 486.72, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Tonic Water', 'description': None, 'price': 221.23, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Whole Cheese Cake', 'description': None, 'price': 4867.25, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jacobs Creek Chardonney Pinot Noir', 'description': None, 'price': 2654.86, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cheese Cake', 'description': None, 'price': 247.8, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Potato Wedges', 'description': None, 'price': 247.79, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jacobs Creek Merlot (150ml)', 'description': None, 'price': 442.48, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jacobs Creek Merlot (750)', 'description': None, 'price': 2123.9, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Jacobs Creek Rose (750)', 'description': None, 'price': 2654.87, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chickpeas Bowl', 'description': None, 'price': 442.47, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Boiled chicken 500gm', 'description': None, 'price': 884.95, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Ruslan 150 ml', 'description': None, 'price': 1061.94, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Litchi', 'description': None, 'price': 619.46, 'group': 'Tetra Juice', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Ruslan Vodka Half', 'description': None, 'price': 2654.86, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra butter', 'description': None, 'price': 62.0, 'group': 'extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gin and Tonic', 'description': None, 'price': 619.46, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Screwdriver', 'description': None, 'price': 752.21, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Caramel Cookie', 'description': None, 'price': 309.73, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extraa Guacamole', 'description': None, 'price': 70.8, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Flavoured Iced Latte', 'description': None, 'price': 424.77, 'group': 'Iced', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Korean Chicken', 'description': None, 'price': 194.69, 'group': 'Buffet Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Sautte', 'description': None, 'price': 176.99, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Freshly Heaven Cocktail', 'description': None, 'price': 752.21, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Dont Liechi Cocktail', 'description': None, 'price': 752.21, 'group': 'Cocktail', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Love 66', 'description': None, 'price': 884.95, 'group': 'Sisha', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mint', 'description': None, 'price': 884.95, 'group': 'Sisha', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Watermelon Sisha', 'description': None, 'price': 884.95, 'group': 'Sisha', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Veg Platter', 'description': None, 'price': 1592.92, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Icecream', 'description': None, 'price': 132.74, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Glutten Free Pasta', 'description': None, 'price': 1017.69, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Ruslan', 'description': None, 'price': 354.0, 'group': 'Vodka', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Magic Love', 'description': None, 'price': 884.95, 'group': 'Sisha', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'barasinghe big', 'description': None, 'price': 575.22, 'group': 'beer', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Barahsinghe', 'description': None, 'price': 398.23, 'group': 'Beer', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Sour Dough Bread Set', 'description': None, 'price': 752.21, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mud Brownie', 'description': None, 'price': 309.73, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Nutella Cookies', 'description': None, 'price': 309.73, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Bread', 'description': None, 'price': 106.19, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Hot Chocolate With Marshmellow', 'description': None, 'price': 460.18, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cheesecake B2B', 'description': None, 'price': 270.0, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cheese-cake', 'description': None, 'price': 442.27, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Multigrain B2B', 'description': None, 'price': 81.0, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chocochip B2B', 'description': None, 'price': 76.5, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chocochip cookie', 'description': None, 'price': 176.99, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Multigrain cookie', 'description': None, 'price': 176.99, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Gorkha Craft', 'description': None, 'price': 575.22, 'group': 'Beer', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Budweiser Craft', 'description': None, 'price': 398.23, 'group': 'Beer', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Ciggratte', 'description': None, 'price': 44.24, 'group': 'Smoke', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Lime Soda', 'description': None, 'price': 221.24, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Salmon', 'description': None, 'price': 575.0, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mini Maple Glazed Chicken', 'description': None, 'price': 221.23, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mini Pizza', 'description': None, 'price': 176.99, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mini Bruchetta', 'description': None, 'price': 39.82, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mini Breakie Wrap', 'description': None, 'price': 221.23, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mini Fries', 'description': None, 'price': 106.19, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mini Veg Slider', 'description': None, 'price': 176.99, 'group': 'Brunch Event', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Brunch Buffet', 'description': None, 'price': 17699.12, 'group': 'Buffet', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Sauce', 'description': None, 'price': 44.25, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Veggies', 'description': None, 'price': 115.04, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'White Bread B2B', 'description': None, 'price': 221.24, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Snacks Platter', 'description': None, 'price': 1592.92, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Hot Milk', 'description': None, 'price': 44.25, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Honey', 'description': None, 'price': 70.8, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Veg On Toast', 'description': None, 'price': 442.48, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Chickpeas', 'description': None, 'price': 132.74, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Avocado', 'description': None, 'price': 176.99, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Fresh Juice Bottle', 'description': None, 'price': 265.49, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Coconut water', 'description': None, 'price': 353.98, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Green Tea Damman', 'description': None, 'price': 309.73, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Thai Iced Tea', 'description': None, 'price': 283.19, 'group': 'Iced', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Sausage', 'description': None, 'price': 176.9, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Sour Dough', 'description': None, 'price': 309.8, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mango Mouse B2B', 'description': None, 'price': 170.0, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Blueberry Cheesecake B2B', 'description': None, 'price': 300.0, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Egg Tart B2B', 'description': None, 'price': 80.0, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cheese Tart B2B', 'description': None, 'price': 110.0, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Panini Bread B2B', 'description': None, 'price': 49.5, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mushroom Patties', 'description': None, 'price': 162.0, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chicken Patties B2B', 'description': None, 'price': 162.0, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cup Cake B2B', 'description': None, 'price': 67.5, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Almond-Pastry', 'description': None, 'price': 252.0, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Sour Dough Bread', 'description': None, 'price': 225.0, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Brownie', 'description': None, 'price': 99.0, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra egg', 'description': None, 'price': 70.8, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Fatayer', 'description': None, 'price': 752.08, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Chicken', 'description': None, 'price': 106.19, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Pesto Sauce', 'description': None, 'price': 70.8, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Bacon & Eggs Benedict', 'description': None, 'price': 752.21, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Left On Red', 'description': None, 'price': 486.73, 'group': 'Mocktails', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Poached Chicken Toast', 'description': None, 'price': 663.72, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chicken Panini', 'description': None, 'price': 752.21, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Rustic French Toast', 'description': None, 'price': 795.58, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Penne In Bechamel', 'description': None, 'price': 884.07, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Penne In Pesto', 'description': None, 'price': 884.07, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Penne In Rouge', 'description': None, 'price': 876.11, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chick Fil a Wrap', 'description': None, 'price': 699.16, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mushroom Panini', 'description': None, 'price': 752.21, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Aubergine Drama', 'description': None, 'price': 309.73, 'group': 'Snacks', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'BBQ Fries', 'description': None, 'price': 309.73, 'group': 'Snacks', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Feels Brunch Platter', 'description': None, 'price': 1769.02, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Chicken Avocado Benedict', 'description': None, 'price': 707.96, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Beetroot Salad', 'description': None, 'price': 601.77, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Sauvignon Blanc per Glass', 'description': None, 'price': 795.58, 'group': 'wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Carbarnet Sauvigon per Glass', 'description': None, 'price': 795.58, 'group': 'wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Double Patties Chicken Burger', 'description': None, 'price': 795.57, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Masala Tea', 'description': None, 'price': 88.5, 'group': 'Zmanagement', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Matcha Latte', 'description': None, 'price': 353.98, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Blueberry Smoothies', 'description': None, 'price': 438.05, 'group': 'Iced', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Seasonal Smoothies', 'description': None, 'price': 398.23, 'group': 'Iced', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced Matcha Latte', 'description': None, 'price': 398.23, 'group': 'Iced', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Flat White', 'description': None, 'price': 327.43, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Basil Pesto Pasta', 'description': None, 'price': 884.07, 'group': 'Mains', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Terra De Pau per bottle', 'description': None, 'price': 3538.94, 'group': 'wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Terra De Pau', 'description': None, 'price': 795.58, 'group': 'Wine', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Two Jumbo Eggs', 'description': None, 'price': 132.74, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Muffin', 'description': None, 'price': 132.74, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Blueberry Puff', 'description': None, 'price': 309.73, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Wrap Bread', 'description': None, 'price': 22.12, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Panini Bread', 'description': None, 'price': 30.97, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Burger Bun', 'description': None, 'price': 22.12, 'group': 'B2B', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Fruits Cake', 'description': None, 'price': 221.24, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Mango Mousse', 'description': None, 'price': 265.49, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Extra Bacon', 'description': None, 'price': 176.99, 'group': 'Extra', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Honey Hot Lemon', 'description': None, 'price': 221.23, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Plain Salad', 'description': None, 'price': 336.28, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Feta Cheese Salad', 'description': None, 'price': 814.15, 'group': 'Snacks', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Almond Pastry', 'description': None, 'price': 353.98, 'group': 'Pastries', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Maple Glazed Chicken', 'description': None, 'price': 618.58, 'group': 'Snacks', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Breakfast Super Food Bowl', 'description': None, 'price': 707.08, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cheesy Fries', 'description': None, 'price': 486.73, 'group': 'Snacks', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Fruit Platter', 'description': None, 'price': 398.23, 'group': 'brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Tulas Luv Pancakes', 'description': None, 'price': 795.58, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Crepes for Days', 'description': None, 'price': 795.58, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Quinoa Salad', 'description': None, 'price': 601.77, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Feels Breakfast', 'description': None, 'price': 1149.56, 'group': 'Brunch', 'thumbnail': None, 'discount_exempt': False, 'type': 'Food', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Fresh Juice', 'description': None, 'price': 327.43, 'group': 'Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Echo (850ml)', 'description': None, 'price': 70.79, 'group': 'Drinking Water', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Blue angel', 'description': None, 'price': 486.73, 'group': 'Mocktails', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'In Your Feels', 'description': None, 'price': 486.73, 'group': 'Mocktails', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Freshly heaven', 'description': None, 'price': 486.73, 'group': 'Mocktails', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Dont Lieche', 'description': None, 'price': 486.73, 'group': 'Mocktails', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Watcha Melon', 'description': None, 'price': 486.73, 'group': 'Mocktails', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Blended Mocha', 'description': None, 'price': 407.08, 'group': 'Iced', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced Caramel Latte', 'description': None, 'price': 407.08, 'group': 'Iced', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced Mocha', 'description': None, 'price': 424.78, 'group': 'Iced', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced Cappuccino', 'description': None, 'price': 362.83, 'group': 'Iced', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced Latte', 'description': None, 'price': 362.83, 'group': 'Iced', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Iced Americano', 'description': None, 'price': 318.58, 'group': 'Iced', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Hot Chocolate', 'description': None, 'price': 398.23, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Flavoured Cappuccino', 'description': None, 'price': 362.83, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cafe Mocha', 'description': None, 'price': 362.83, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cappuccino (Double)', 'description': None, 'price': 345.13, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Cappuccino (Single)', 'description': None, 'price': 292.04, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Latte (Double)', 'description': None, 'price': 362.83, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Latte (Single)', 'description': None, 'price': 318.58, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Americano (Double)', 'description': None, 'price': 309.73, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Americano (Single)', 'description': None, 'price': 247.79, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Doppio', 'description': None, 'price': 221.24, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+This is the menu data {'item_name': 'Espresso', 'description': None, 'price': 176.99, 'group': 'Hot Beverage', 'thumbnail': None, 'discount_exempt': False, 'type': 'Beverage', 'outlet': 'corefood', 'image_bytes': None, 'delete_check': True} 
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Internal Server Error: /api/scanpay/create-hash/
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/silverli/projects/feels_jhamsikhel/api/views/hashgenerate.py", line 10, in post
+    table = posted_data['table']
+KeyError: 'table'
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Internal Server Error: /api/scanpay/create-hash/
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/silverli/projects/feels_jhamsikhel/api/views/hashgenerate.py", line 10, in post
+    table = posted_data['table']
+KeyError: 'table'
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /api/scanpay/create-qr
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Bad Request: /api/scanpay/create-qr
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/views/generic/list.py:91: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'rating.models.MailRecipient'> QuerySet.
+  return self.paginator_class(
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+The menutype id is  2
+[{"selectedProductId":"2557","selectedProductName":"Quinoa Salad"},{"selectedProductId":"2524","selectedProductName":"Chicken Avocado Benedict"},{"selectedProductId":"2535","selectedProductName":"Basil Pesto Pasta"}]
+[{'selectedProductId': '2557', 'selectedProductName': 'Quinoa Salad'}, {'selectedProductId': '2524', 'selectedProductName': 'Chicken Avocado Benedict'}, {'selectedProductId': '2535', 'selectedProductName': 'Basil Pesto Pasta'}]
+Internal Server Error: /menu_preset_product/create/2
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/silverli/projects/feels_jhamsikhel/user/permission.py", line 46, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/silverli/projects/feels_jhamsikhel/menu/views.py", line 223, in post
+    product = Menu.objects.get(id=selected_product_id)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/db/models/query.py", line 496, in get
+    raise self.model.DoesNotExist(
+menu.models.Menu.DoesNotExist: Menu matching query does not exist.
+Not Found: /favicon.ico
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+The menutype id is  2
+[{"selectedProductId":"2579","selectedProductName":"Americano (Double)"}]
+[{'selectedProductId': '2579', 'selectedProductName': 'Americano (Double)'}]
+Internal Server Error: /menu_preset_product/create/2
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/silverli/projects/feels_jhamsikhel/user/permission.py", line 46, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/silverli/projects/feels_jhamsikhel/menu/views.py", line 223, in post
+    product = Menu.objects.get(id=selected_product_id)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/db/models/query.py", line 496, in get
+    raise self.model.DoesNotExist(
+menu.models.Menu.DoesNotExist: Menu matching query does not exist.
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+The menutype id is  1
+[{"selectedProductId":"2580","selectedProductName":"Americano (Single)"}]
+[{'selectedProductId': '2580', 'selectedProductName': 'Americano (Single)'}]
+Internal Server Error: /menu_preset_product/create/1
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/silverli/projects/feels_jhamsikhel/user/permission.py", line 46, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/silverli/projects/feels_jhamsikhel/menu/views.py", line 223, in post
+    product = Menu.objects.get(id=selected_product_id)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/db/models/query.py", line 496, in get
+    raise self.model.DoesNotExist(
+menu.models.Menu.DoesNotExist: Menu matching query does not exist.
+Not Found: /api/scanpay/get-outlettable-hash/
+Not Found: /api/scanpay/table-items///
+Not Found: /api/scanpay/table-items///
+Internal Server Error: /api/scanpay/get-outlettable-hash/d0c291f94c8a1adce1350d4ffd3b07b0de83e5cec5f93cf6777180e1e0ffbd0e
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/opt/alt/python39/lib64/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DoesNotExist is not JSON serializable
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+The menutype id is  2
+[{"selectedProductId":"2487","selectedProductName":"Quinoa Salad"},{"selectedProductId":"2031","selectedProductName":"Quesdilla In Chicken"}]
+[{'selectedProductId': '2487', 'selectedProductName': 'Quinoa Salad'}, {'selectedProductId': '2031', 'selectedProductName': 'Quesdilla In Chicken'}]
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+The menutype id is  1
+[{"selectedProductId":"2495","selectedProductName":"Watcha Melon"},{"selectedProductId":"2498","selectedProductName":"Iced Mocha"},{"selectedProductId":"2479","selectedProductName":"Feta Cheese Salad"}]
+[{'selectedProductId': '2495', 'selectedProductName': 'Watcha Melon'}, {'selectedProductId': '2498', 'selectedProductName': 'Iced Mocha'}, {'selectedProductId': '2479', 'selectedProductName': 'Feta Cheese Salad'}]
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /api/scanpay/table-items///
+Internal Server Error: /api/scanpay/get-outlettable-hash/d0c291f94c8a1adce1350d4ffd3b07b0de83e5cec5f93cf6777180e1e0ffbd0e
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/opt/alt/python39/lib64/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DoesNotExist is not JSON serializable
+Not Found: /api/scanpay/table-items///
+Internal Server Error: /api/scanpay/get-outlettable-hash/d0c291f94c8a1adce1350d4ffd3b07b0de83e5cec5f93cf6777180e1e0ffbd0e
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/opt/alt/python39/lib64/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DoesNotExist is not JSON serializable
+Not Found: /api/get-outlettable-hash/84251c0e075529e24948d40f2a126f9ee2299834ff81c27ae84f9a5d18f5661b
+Not Found: /api/scanpay/table-items///
+the menu type is not timed
+Promotional Menu
+<QuerySet [<Menu: Quinoa Salad>, <Menu: Quesdilla In Chicken>]>
+[OrderedDict([('id', 2487), ('image_url', 'api/Quinoa Salad'), ('imageList', [OrderedDict([('file', '/uploads/media_files/quinoa.jpeg'), ('type', 'image')])]), ('item_name', 'Quinoa Salad'), ('slug', 'quinoa-salad'), ('group', 'Brunch'), ('type', 'Food'), ('price', 601.77), ('outlet', 'corefood'), ('discount_exempt', False), ('is_promotional', False), ('is_todayspecial', False), ('thumbnail', None), ('image_bytes', None), ('description', None), ('rating', 0.0), ('promotional_price', 0.0), ('delete_check', True), ('is_veg', None), ('spice_level', None), ('menutype', 2)]), OrderedDict([('id', 2031), ('image_url', 'api/Quesdilla In Chicken'), ('imageList', [OrderedDict([('file', '/uploads/media_files/quesedilla3.jpeg'), ('type', 'image')])]), ('item_name', 'Quesdilla In Chicken'), ('slug', 'quesdilla-in-chicken'), ('group', 'Snacks'), ('type', 'Food'), ('price', 663.71), ('outlet', 'corefood'), ('discount_exempt', False), ('is_promotional', False), ('is_todayspecial', False), ('thumbnail', None), ('image_bytes', None), ('description', None), ('rating', 0.0), ('promotional_price', 0.0), ('delete_check', True), ('is_veg', None), ('spice_level', None), ('menutype', 2)])]serialized_menus
+These are the orders <QuerySet []>
+{'quantity': None}
+I am inside
+active users <QuerySet []>
+No active users in the outlet corefood
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /api/scanpay/get-outlettable-hash/
+Not Found: /api/scanpay/table-items///
+Not Found: /api/scanpay/table-items///
+the menu type is not timed
+Promotional Menu
+<QuerySet [<Menu: Quinoa Salad>, <Menu: Quesdilla In Chicken>]>
+[OrderedDict([('id', 2487), ('image_url', 'api/Quinoa Salad'), ('imageList', [OrderedDict([('file', '/uploads/media_files/quinoa.jpeg'), ('type', 'image')])]), ('item_name', 'Quinoa Salad'), ('slug', 'quinoa-salad'), ('group', 'Brunch'), ('type', 'Food'), ('price', 601.77), ('outlet', 'corefood'), ('discount_exempt', False), ('is_promotional', False), ('is_todayspecial', False), ('thumbnail', None), ('image_bytes', None), ('description', None), ('rating', 0.0), ('promotional_price', 0.0), ('delete_check', True), ('is_veg', None), ('spice_level', None), ('menutype', 2)]), OrderedDict([('id', 2031), ('image_url', 'api/Quesdilla In Chicken'), ('imageList', [OrderedDict([('file', '/uploads/media_files/quesedilla3.jpeg'), ('type', 'image')])]), ('item_name', 'Quesdilla In Chicken'), ('slug', 'quesdilla-in-chicken'), ('group', 'Snacks'), ('type', 'Food'), ('price', 663.71), ('outlet', 'corefood'), ('discount_exempt', False), ('is_promotional', False), ('is_todayspecial', False), ('thumbnail', None), ('image_bytes', None), ('description', None), ('rating', 0.0), ('promotional_price', 0.0), ('delete_check', True), ('is_veg', None), ('spice_level', None), ('menutype', 2)])]serialized_menus
+These are the orders <QuerySet [<Order: Order object (304)>]>
+{'quantity': 2}
+orders <QuerySet [<Order: Order object (304)>]>
+These are the orders <QuerySet [<Order: Order object (304)>]>
+{'quantity': 2}
+orders <QuerySet [<Order: Order object (304)>]>
+Not Found: /api/scanpay/customer-details/null
+These are the orders <QuerySet [<Order: Order object (304)>]>
+{'quantity': 2}
+orders <QuerySet [<Order: Order object (304)>]>
+I am inside
+active users <QuerySet []>
+No active users in the outlet corefood
+These are the orders <QuerySet [<Order: Order object (304)>]>
+{'quantity': 4}
+orders <QuerySet [<Order: Order object (304)>]>
+I am inside
+active users <QuerySet []>
+No active users in the outlet corefood
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /api/payload/toggle/
+Not Found: /api/payload/toggle/
+Not Found: /api/payload/toggle/
+Not Found: /api/payload/toggle/
+Not Found: /api/payload/toggle/
+Not Found: /api/payload/toggle/
+Not Found: /api/payload/toggle/
+Not Found: /api/payload/toggle/
+Not Found: /api/payload/toggle/
+Not Found: /api/payload/toggle/
+Not Found: /api/payload/toggle/
+Not Found: /api/discount/toggle/
+These are the orders <QuerySet [<Order: Order object (304)>]>
+{'quantity': 6}
+orders <QuerySet [<Order: Order object (304)>]>
+the menu type is not timed
+Promotional Menu
+<QuerySet [<Menu: Quinoa Salad>, <Menu: Quesdilla In Chicken>]>
+[OrderedDict([('id', 2487), ('image_url', 'api/Quinoa Salad'), ('imageList', [OrderedDict([('file', '/uploads/media_files/quinoa.jpeg'), ('type', 'image')])]), ('item_name', 'Quinoa Salad'), ('slug', 'quinoa-salad'), ('group', 'Brunch'), ('type', 'Food'), ('price', 601.77), ('outlet', 'corefood'), ('discount_exempt', False), ('is_promotional', False), ('is_todayspecial', False), ('thumbnail', None), ('image_bytes', None), ('description', None), ('rating', 0.0), ('promotional_price', 0.0), ('delete_check', True), ('is_veg', None), ('spice_level', None), ('menutype', 2)]), OrderedDict([('id', 2031), ('image_url', 'api/Quesdilla In Chicken'), ('imageList', [OrderedDict([('file', '/uploads/media_files/quesedilla3.jpeg'), ('type', 'image')])]), ('item_name', 'Quesdilla In Chicken'), ('slug', 'quesdilla-in-chicken'), ('group', 'Snacks'), ('type', 'Food'), ('price', 663.71), ('outlet', 'corefood'), ('discount_exempt', False), ('is_promotional', False), ('is_todayspecial', False), ('thumbnail', None), ('image_bytes', None), ('description', None), ('rating', 0.0), ('promotional_price', 0.0), ('delete_check', True), ('is_veg', None), ('spice_level', None), ('menutype', 2)])]serialized_menus
+the menu type is not timed
+Promotional Menu
+<QuerySet [<Menu: Quinoa Salad>, <Menu: Quesdilla In Chicken>]>
+[OrderedDict([('id', 2487), ('image_url', 'api/Quinoa Salad'), ('imageList', [OrderedDict([('file', '/uploads/media_files/quinoa.jpeg'), ('type', 'image')])]), ('item_name', 'Quinoa Salad'), ('slug', 'quinoa-salad'), ('group', 'Brunch'), ('type', 'Food'), ('price', 601.77), ('outlet', 'corefood'), ('discount_exempt', False), ('is_promotional', False), ('is_todayspecial', False), ('thumbnail', None), ('image_bytes', None), ('description', None), ('rating', 0.0), ('promotional_price', 0.0), ('delete_check', True), ('is_veg', None), ('spice_level', None), ('menutype', 2)]), OrderedDict([('id', 2031), ('image_url', 'api/Quesdilla In Chicken'), ('imageList', [OrderedDict([('file', '/uploads/media_files/quesedilla3.jpeg'), ('type', 'image')])]), ('item_name', 'Quesdilla In Chicken'), ('slug', 'quesdilla-in-chicken'), ('group', 'Snacks'), ('type', 'Food'), ('price', 663.71), ('outlet', 'corefood'), ('discount_exempt', False), ('is_promotional', False), ('is_todayspecial', False), ('thumbnail', None), ('image_bytes', None), ('description', None), ('rating', 0.0), ('promotional_price', 0.0), ('delete_check', True), ('is_veg', None), ('spice_level', None), ('menutype', 2)])]serialized_menus
+Not Found: /api/scanpay/table-items///
+Not Found: /api/scanpay/get-outlettable-hash/
+Not Found: /api/scanpay/table-items///
+Internal Server Error: /api/scanpay/get-outlettable-hash/66e0ddeed503649d703a1cf929efd3e6acc484c7a25b9eacf366d27189c7986f
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/opt/alt/python39/lib64/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DoesNotExist is not JSON serializable
+Not Found: /api/scanpay/table-items///
+Internal Server Error: /api/scanpay/get-outlettable-hash/66e0ddeed503649d703a1cf929efd3e6acc484c7a25b9eacf366d27189c7986f
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/opt/alt/python39/lib64/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DoesNotExist is not JSON serializable
+Not Found: /api/scanpay/table-items///
+Internal Server Error: /api/scanpay/get-outlettable-hash/66e0ddeed503649d703a1cf929efd3e6acc484c7a25b9eacf366d27189c7986f
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/opt/alt/python39/lib64/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DoesNotExist is not JSON serializable
+the menu type is not timed
+Promotional Menu
+<QuerySet [<Menu: Quinoa Salad>, <Menu: Quesdilla In Chicken>]>
+[OrderedDict([('id', 2487), ('image_url', 'api/Quinoa Salad'), ('imageList', [OrderedDict([('file', '/uploads/media_files/quinoa.jpeg'), ('type', 'image')])]), ('item_name', 'Quinoa Salad'), ('slug', 'quinoa-salad'), ('group', 'Brunch'), ('type', 'Food'), ('price', 601.77), ('outlet', 'corefood'), ('discount_exempt', False), ('is_promotional', False), ('is_todayspecial', False), ('thumbnail', None), ('image_bytes', None), ('description', None), ('rating', 0.0), ('promotional_price', 0.0), ('delete_check', True), ('is_veg', None), ('spice_level', None), ('menutype', 2)]), OrderedDict([('id', 2031), ('image_url', 'api/Quesdilla In Chicken'), ('imageList', [OrderedDict([('file', '/uploads/media_files/quesedilla3.jpeg'), ('type', 'image')])]), ('item_name', 'Quesdilla In Chicken'), ('slug', 'quesdilla-in-chicken'), ('group', 'Snacks'), ('type', 'Food'), ('price', 663.71), ('outlet', 'corefood'), ('discount_exempt', False), ('is_promotional', False), ('is_todayspecial', False), ('thumbnail', None), ('image_bytes', None), ('description', None), ('rating', 0.0), ('promotional_price', 0.0), ('delete_check', True), ('is_veg', None), ('spice_level', None), ('menutype', 2)])]serialized_menus
+Not Found: //staticfiles/js/scripts.bundle.js
+Not Found: //staticfiles/js/scripts.bundle.js
+Not Found: //staticfiles/plugins/global/plugins.bundle.js
+Not Found: //staticfiles/plugins/global/plugins.bundle.js
+These are the orders <QuerySet []>
+{'quantity': None}
+Not Found: /api/scanpay/customer-details/null
+These are the orders <QuerySet []>
+{'quantity': None}
+These are the orders <QuerySet []>
+{'quantity': None}
+Not Found: /api/scanpay/customer-details/null
+These are the orders <QuerySet []>
+{'quantity': None}
+These are the orders <QuerySet []>
+{'quantity': None}
+Not Found: /api/scanpay/customer-details/null
+Internal Server Error: /api/scanpay/get-outlettable-hash/66e0ddeed503649d703a1cf929efd3e6acc484c7a25b9eacf366d27189c7986f
+Traceback (most recent call last):
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/opt/alt/python39/lib64/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/silverli/virtualenv/projects/feels_jhamsikhel/3.9/lib/python3.9/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/opt/alt/python39/lib64/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DoesNotExist is not JSON serializable
+Not Found: /api/scanpay/customer-details/null
+Not Found: /api/scanpay/customer-details/null
+Not Found: /api/scanpay/table-items///
+Not Found: /api/scanpay/get-outlettable-hash/
+Not Found: /api/scanpay/get-outlettable-hash/
+Not Found: /api/scanpay/table-items///
+Not Found: /api/scanpay/customer-details/null
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js
+Not Found: /staticfiles/js/custom/apps/ecommerce/catalog/apps/ecommerce/catalog/save-product.js

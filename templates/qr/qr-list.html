@@ -1,0 +1,72 @@
+
+{%extends 'base.html'%}
+{% block pagetitle %}Qr List {% endblock %}
+{% block home %} {% url 'menu_type_list' %} {% endblock %}
+{% block title %}Qr List {% endblock %}
+{% block content %}
+ {% include 'components/title_bar.html' with title=' Qr List ' create='/create/'  %}
+
+ <div class="card" id="printTable">
+                <div class="card">
+
+
+    <div class="card-body pt-0">
+    <!--begin::Table-->
+    <div id="kt_customers_table_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer">
+      <div class="table">
+
+
+            <div class="d-flex flex-wrap">
+          {% for object in object_list %}
+
+                <div>          
+                  <img
+                    src="{{object.image_url}}"
+                    alt="{{ product.title }}"
+                    class="card-img-top"
+                    style="height: 220px;width:220px"/>
+                <div class="text-center mt-0">table: {{object.table}}</div>
+                </div>
+             {%empty%}
+            </div>
+             {% include 'components/empty.html' with  title="Qr"%}
+              {% endfor %}
+
+          <!--end::Table body-->
+      </div>
+    <!-- {%if object_list%}
+      {% include 'pagination.html' %}
+    {%endif%} -->
+    </div>
+    <!--end::Table-->
+  </div>
+  <!--end::Card body-->
+</div>
+</div>
+<button type="button" class="btn btn-success my-1 me-12" onclick="printTable('printTable');">Print</button>
+<script type="text/javascript">
+    function printTable(tableId) {
+        var printContents = document.getElementById(tableId).innerHTML
+        var originalContents = document.body.innerHTML
+
+        //Hide Elements with no-print class
+        var noPrintElements = document.querySelectorAll('no-print')
+
+        for (var i = 0; i < noPrintElements.length; i++) {
+            noPrintElements[i].style.display = 'none'
+        }
+
+        document.body.innerHTML = printContents
+
+        window.print()
+
+        document.body.innerHTML = originalContents
+
+        for (var i = 0; i < noPrintElements.length; i++) {
+            noPrintElements[i].style.display = 'block'
+        }
+    }
+</script>
+
+{% endblock %}
+
